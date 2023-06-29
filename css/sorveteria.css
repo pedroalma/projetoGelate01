@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+
+}
+div{
+    background-color: #f6d10e;
+    text-align: end;
+
+}
+body{
+    background-image: url(/imagens/sorvetes.Defondo.jpg);
+}
+h5{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+figure{
+    text-align: left;
+}
+#button01{
+    background-color: black;
+    color: #f6d10e;
+}
+#button02{
+    background-color: #ea6785;
+    text-align: end;
+}
+#figure02{
+    text-align: center;
+}
